@@ -1,1 +1,1 @@
-# 2024-python-data-analysis-and-visualization-masterclass
+# 2024 Python Data Analysis & Visualization Masterclass
